@@ -1,0 +1,2 @@
+# python_basic_practice
+pythonのなんか色々なtipsとか基本動作のやつ
